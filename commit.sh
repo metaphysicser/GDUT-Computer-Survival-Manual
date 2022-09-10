@@ -8,7 +8,7 @@ git commit -m 'update gitbook'
 
 # 将本地仓库推送至远程仓库
 echo '执行命令：git push origin main\n'
-git push origin main
+git push -f origin main
 
 #------------------------------------------------------------
 # 更新gitbook
