@@ -18,7 +18,7 @@ gitbook build .
 git checkout --orphan gh-pages
 
 # 删除除了_book的文件
-hopt -s extglob
+shopt -s extglob
 rm -fr !(_book)
 
 # 复制_book的内容
@@ -32,7 +32,7 @@ git commit -m "Publish book"
 git branch --set-upstream-to=origin/gh-pages gh-pages
 
 #推送
-git push -f gh-pages
+git push -f origin gh-pages
 
 #切回主分支，并删除gh-pages
 git checkout main
