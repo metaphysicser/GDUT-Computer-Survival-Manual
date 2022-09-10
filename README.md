@@ -4,7 +4,7 @@
 
 
 
-本项目gitbook的地址为:
+本项目gitbook的地址为:  https://metaphysicser.github.io/GDUT-Computer-Survival-Manual/
 
 本项目github地址为: https://github.com/metaphysicser/GDUT-Computer-Survival-Manual
 
