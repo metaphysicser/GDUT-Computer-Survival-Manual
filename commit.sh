@@ -1,6 +1,6 @@
 # 保存所有的修改
 echo '执行命令：git add -A\n'
-git add -A
+git add .
 
 # 把修改的文件提交
 echo "执行命令：git commit -m 'update gitbook'\n"
