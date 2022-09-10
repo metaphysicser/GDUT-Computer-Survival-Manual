@@ -6,7 +6,7 @@
 
 本项目gitbook的地址为:
 
-本项目github地址为:
+本项目github地址为: https://github.com/metaphysicser/GDUT-Computer-Survival-Manual
 
 **本项目的目的便是开源分享, 我们淋过雨，所以想为你们撑伞。我们希望每个人都能有自己的理想的去处，而不是把时间浪费在保研的弯路上。希望看到的同学能够积极转发，让更多人看到。**					--夕照深雨
 
