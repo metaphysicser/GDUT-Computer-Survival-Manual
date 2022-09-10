@@ -1,0 +1,35 @@
+{
+    "author": "夕照深雨",
+    "description": "GDUT计算机学院保研经验贴",
+    "extension": null,
+    "generator": "site",
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": ["-lunr", "-search", "search-pro","chapter-fold","expandable-chapters","splitter","github","anchor-navigation-ex","accordion","popup"
+],
+
+    "title": "GDUT-Computer-Survival-Manual",
+    "variables": {},
+"pluginsConfig": {
+ "github": {
+            "url": "https://github.com/metaphysicser/GDUT-Computer-Survival-Manual/"
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false, 
+            "showGoTop": false 
+        }
+}
+}
+
