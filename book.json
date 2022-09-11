@@ -46,7 +46,7 @@
       "repo": "GDUT-Computer-Survival-Manual", 
       "type": "star",
       "count": true,
-      "size": "small",
+      "size": "big",
       "width": "200"
     }, 
     {
@@ -54,7 +54,7 @@
       "width": "200", 
       "type": "follow", 
       "count": true,
-      "size": "small"
+      "size": "big"
     }
   ]
   }
