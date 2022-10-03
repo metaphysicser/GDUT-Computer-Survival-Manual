@@ -18,7 +18,7 @@
         "paperSize": "a4"
     },
     "plugins": ["-lunr", "-search", "search-pro","chapter-fold","expandable-chapters","splitter","github","anchor-navigation-ex","accordion","popup"
- , "-sharing","github-buttons","theme-comscore","tbfed-pagefooter","baidu-tongji"],
+ , "-sharing","github-buttons","theme-comscore","tbfed-pagefooter","baidu-tongji", "pageview-count"],
 
     "title": "GDUT-Computer-Survival-Manual",
     "variables": {},
