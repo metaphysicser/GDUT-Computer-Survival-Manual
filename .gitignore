@@ -1,6 +1,5 @@
 node_modules
 commit.sh
 package-lock.json
-book.json
 .gitignore
 _book
