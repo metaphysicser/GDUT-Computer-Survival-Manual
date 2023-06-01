@@ -49,30 +49,52 @@ PS：
 
 （4）此Map的课程安排不具参考意义(比如我大二下还得补大一下的离散)，师弟师妹们的课程安排请以自己教务系统上的为准，特此说明。
 
-（5）Email：wenkairun@gmail.com，如若有困惑请务必整理好问题再来咨询，Thx。不保证会回喔，我也好忙的= = 
+（5）Email：wenkairun@gmail.com，师弟妹们有更新的试卷也可发至此邮箱，& 如若有困惑请务必整理好问题再来咨询，Thx。
 
 
 
-# 二、保研文书准备
+# 二、保研文书 
 
-简历
+| 文书     | 密码 | 链接                                                         | 备注 |
+| -------- | ---- | ------------------------------------------------------------ | ---- |
+| 简历     | 暂无 | 文书中最重要的一项没有之一。具体表现在：要是简历写得烂，老师甚至不会回复你的联系邮件。 |      |
+| 个人陈述 | 0002 | https://pan.baidu.com/s/1mDmO2EIVklPB7gSWsUh-2Q?pwd=0002     |      |
+| 联系导师 | 0003 | https://pan.baidu.com/s/1GGu9rnPGghwaLsyTAdUAQg?pwd=0003     |      |
+| 自我介绍 | 0004 | https://pan.baidu.com/s/1GqaokI25tyqqTK2VcUNf6g?pwd=0004     | PPT  |
+| 推荐信   | 0005 | https://pan.baidu.com/s/1KR_rkEaCQOruO9ggFmrUyQ?pwd=0005     |      |
+|          |      |                                                              |      |
+|          |      |                                                              |      |
 
-个人陈述
+夏令营和预推免通知：
 
-推荐信
+1）https://github.com/LinghaoChan/CSSummerCamp2022
 
-套磁邮件
-
-其它
+2）https://github.com/jsjby/jsjby_2022/blob/main/README.md
 
 
 
 # 三、科研工具
 
-笔记软件：懒得折腾的推荐【语雀】这个软件。也可以用Typora+github/gitee，but感觉略麻烦。
+笔记软件：懒得折腾的推荐【语雀】这个软件。也可以用Typora+github/gitee。
 
 and so on
 
+
+
+
+
 # 四、面经
 
-国奖+rank3+还行的科研经历 --> xmu。此行供师弟师妹保研定位，but我感觉20级以后的background更具参考价值。
+（1）国奖+rank3+还行的科研经历 --> xmu。此行供师弟师妹保研定位，but我感觉20级以后的background更具参考价值。
+
+        （夏令营跟老师说好了，故未参加预推免。PS：师弟妹们如果答应了老师的话，尽量别鸽，否则往后的师弟师妹可能就比较惨了= =）
+
+
+
+（2）2019级的保研去向，图源贴吧，不保证准确性，但是目测差不太多。（也可以根据本人在本年级的水平，定位自己大概能去什么学校。）
+
+![image-20230601154143068](https://jhfaoisehoiew.oss-cn-beijing.aliyuncs.com/img/image-20230601154143068.png)
+
+（3）不太推荐 "完全放弃夏令营，只奔着预推免冲" 这种做法，即便夏令营报了xx学校感觉肯定上不了，还是建议去试一下的。
+
+          只要距离不太远，又不影响期末考，自己又有时间，还是推荐去积累一下面试经验的，而且万一过了嘞~
